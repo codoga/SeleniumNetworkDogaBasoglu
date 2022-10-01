@@ -1,0 +1,209 @@
+2022-09-30 15:38:19 INFO  Log4j:44 - Tarayıcı açıldı ve URL kontrol edildi.
+2022-09-30 15:43:34 INFO  Log4j:44 - Tarayıcı açıldı ve URL kontrol edildi.
+2022-09-30 15:43:34 INFO  Log4j:48 - Tüm
+2022-09-30 15:44:38 INFO  Log4j:44 - Tarayıcı açıldı ve URL kontrol edildi.
+2022-09-30 15:51:38 INFO  Log4j:44 - Tarayıcı açıldı ve URL kontrol edildi.
+2022-09-30 15:51:38 INFO  Log4j:48 - Tüm çerezleri kabul et butonu tıklandı.
+2022-09-30 15:51:38 INFO  Log4j:53 - Arama alanına ceket yazıldı ve enter tıklandı.
+2022-09-30 15:51:44 INFO  Log4j:60 - Daha fazla göster butonu bulundu ve tıklandı.
+2022-09-30 15:51:49 INFO  Log4j:65 - Yeni URL kontrol edildi.
+2022-09-30 15:51:49 INFO  Log4j:71 - İndirimli ilk ürüne gidildi.
+2022-09-30 15:51:50 INFO  Log4j:75 - İndirimli ilk üründe beden seçildi.
+2022-09-30 15:51:52 INFO  Log4j:79 - Sepete Git butonu tıklandı.
+2022-09-30 15:51:57 INFO  Log4j:93 - Eski fiyatın indirimli fiyattan büyük olduğu kontrol edildi.
+2022-09-30 15:51:57 INFO  Log4j:97 - Devam Et butonu tıklandı.
+2022-09-30 15:52:00 INFO  Log4j:101 - Giriş Yap butonu kontrol edildi.
+2022-09-30 15:52:01 INFO  Log4j:105 - Network logosu tıklandı.
+2022-09-30 15:52:02 INFO  Log4j:109 - Çanta iconu tıklandı.
+2022-09-30 15:52:02 INFO  Log4j:113 - Sil butonu tıklandı.
+2022-09-30 15:52:04 INFO  Log4j:118 - Çıkart butonu tıklandı.
+2022-09-30 15:52:05 INFO  Log4j:122 - Çanta iconu tıklandı.
+2022-09-30 15:52:07 INFO  Log4j:127 - Sepetiniz boş texti bulundu.
+2022-09-30 16:08:48 INFO  Log4j:44 - Tarayıcı açıldı ve URL kontrol edildi.
+2022-09-30 16:08:48 INFO  Log4j:48 - Tüm çerezleri kabul et butonu tıklandı.
+2022-09-30 16:08:49 INFO  Log4j:53 - Arama alanına ceket yazıldı ve enter tıklandı.
+2022-09-30 16:08:53 INFO  Log4j:60 - Daha fazla göster butonu bulundu ve tıklandı.
+2022-09-30 16:08:58 INFO  Log4j:65 - Yeni URL kontrol edildi.
+2022-09-30 16:08:58 INFO  Log4j:71 - İndirimli ilk ürüne gidildi.
+2022-09-30 16:08:58 INFO  Log4j:75 - İndirimli ilk üründe beden seçildi.
+2022-09-30 16:09:00 INFO  Log4j:79 - Sepete Git butonu tıklandı.
+2022-09-30 16:09:05 INFO  Log4j:93 - Eski fiyatın indirimli fiyattan büyük olduğu kontrol edildi.
+2022-09-30 16:09:06 INFO  Log4j:97 - Devam Et butonu tıklandı.
+2022-09-30 16:09:08 INFO  Log4j:101 - Email yazıldı.
+2022-09-30 16:09:08 INFO  Log4j:105 - Şifre yazıldı.
+2022-09-30 16:09:09 INFO  Log4j:109 - Giriş Yap butonu kontrol edildi.
+2022-09-30 16:09:10 INFO  Log4j:113 - Network logosu tıklandı.
+2022-09-30 16:09:11 INFO  Log4j:117 - Çanta iconu tıklandı.
+2022-09-30 16:09:11 INFO  Log4j:121 - Sil butonu tıklandı.
+2022-09-30 16:09:11 INFO  Log4j:125 - Çıkart butonu tıklandı.
+2022-09-30 16:09:12 INFO  Log4j:129 - Çanta iconu tıklandı.
+2022-09-30 16:09:14 INFO  Log4j:134 - Sepetiniz boş texti bulundu.
+2022-09-30 16:16:43 INFO  Log4j:42 - Tarayıcı açıldı ve URL kontrol edildi.
+2022-09-30 16:16:43 INFO  Log4j:46 - Tüm çerezleri kabul et butonu tıklandı.
+2022-09-30 16:16:48 INFO  Log4j:51 - Arama alanına ceket yazıldı ve enter tıklandı.
+2022-09-30 16:16:48 INFO  Log4j:58 - Daha fazla göster butonu bulundu ve tıklandı.
+2022-09-30 16:16:53 INFO  Log4j:63 - Yeni URL kontrol edildi.
+2022-09-30 16:16:54 INFO  Log4j:69 - İndirimli ilk ürüne gidildi.
+2022-09-30 16:16:54 INFO  Log4j:73 - İndirimli ilk üründe beden seçildi.
+2022-09-30 16:17:19 INFO  Log4j:42 - Tarayıcı açıldı ve URL kontrol edildi.
+2022-09-30 16:17:19 INFO  Log4j:46 - Tüm çerezleri kabul et butonu tıklandı.
+2022-09-30 16:17:23 INFO  Log4j:51 - Arama alanına ceket yazıldı ve enter tıklandı.
+2022-09-30 16:17:24 INFO  Log4j:58 - Daha fazla göster butonu bulundu ve tıklandı.
+2022-09-30 16:17:29 INFO  Log4j:63 - Yeni URL kontrol edildi.
+2022-09-30 16:17:29 INFO  Log4j:69 - İndirimli ilk ürüne gidildi.
+2022-09-30 16:17:29 INFO  Log4j:73 - İndirimli ilk üründe beden seçildi.
+2022-09-30 16:18:01 INFO  Log4j:44 - Tarayıcı açıldı ve URL kontrol edildi.
+2022-09-30 16:18:01 INFO  Log4j:48 - Tüm çerezleri kabul et butonu tıklandı.
+2022-09-30 16:18:06 INFO  Log4j:53 - Arama alanına ceket yazıldı ve enter tıklandı.
+2022-09-30 16:18:06 INFO  Log4j:60 - Daha fazla göster butonu bulundu ve tıklandı.
+2022-09-30 16:18:11 INFO  Log4j:65 - Yeni URL kontrol edildi.
+2022-09-30 16:18:11 INFO  Log4j:71 - İndirimli ilk ürüne gidildi.
+2022-09-30 16:18:12 INFO  Log4j:75 - İndirimli ilk üründe beden seçildi.
+2022-09-30 16:18:14 INFO  Log4j:79 - Sepete Git butonu tıklandı.
+2022-09-30 16:18:19 INFO  Log4j:93 - Eski fiyatın indirimli fiyattan büyük olduğu kontrol edildi.
+2022-09-30 16:18:19 INFO  Log4j:97 - Devam Et butonu tıklandı.
+2022-09-30 16:18:22 INFO  Log4j:101 - Email yazıldı.
+2022-09-30 16:18:22 INFO  Log4j:105 - Şifre yazıldı.
+2022-09-30 16:18:22 INFO  Log4j:109 - Giriş Yap butonu kontrol edildi.
+2022-09-30 16:18:23 INFO  Log4j:113 - Network logosu tıklandı.
+2022-09-30 16:18:24 INFO  Log4j:117 - Çanta iconu tıklandı.
+2022-09-30 16:18:25 INFO  Log4j:121 - Sil butonu tıklandı.
+2022-09-30 16:18:25 INFO  Log4j:125 - Çıkart butonu tıklandı.
+2022-09-30 16:18:25 INFO  Log4j:129 - Çanta iconu tıklandı.
+2022-09-30 16:18:27 INFO  Log4j:134 - Sepetiniz boş texti bulundu.
+2022-09-30 16:38:49 INFO  Log4j:44 - Tarayıcı açıldı ve URL kontrol edildi.
+2022-09-30 16:38:49 INFO  Log4j:48 - Tüm çerezleri kabul et butonu tıklandı.
+2022-09-30 16:38:55 INFO  Log4j:53 - Arama alanına ceket yazıldı ve enter tıklandı.
+2022-09-30 16:38:56 INFO  Log4j:60 - Daha fazla göster butonu bulundu ve tıklandı.
+2022-09-30 16:39:01 INFO  Log4j:65 - Yeni URL kontrol edildi.
+2022-09-30 16:39:01 INFO  Log4j:71 - İndirimli ilk ürüne gidildi.
+2022-09-30 16:39:01 INFO  Log4j:75 - İndirimli ilk üründe beden seçildi.
+2022-09-30 16:39:10 INFO  Log4j:79 - Sepete Git butonu tıklandı.
+2022-09-30 16:39:15 INFO  Log4j:93 - Eski fiyatın indirimli fiyattan büyük olduğu kontrol edildi.
+2022-09-30 16:39:15 INFO  Log4j:97 - Devam Et butonu tıklandı.
+2022-09-30 16:39:18 INFO  Log4j:101 - Email yazıldı.
+2022-09-30 16:39:18 INFO  Log4j:105 - Şifre yazıldı.
+2022-09-30 16:39:18 INFO  Log4j:109 - Giriş Yap butonu kontrol edildi.
+2022-09-30 16:39:19 INFO  Log4j:113 - Network logosu tıklandı.
+2022-09-30 16:39:20 INFO  Log4j:117 - Çanta iconu tıklandı.
+2022-09-30 16:39:20 INFO  Log4j:121 - Sil butonu tıklandı.
+2022-09-30 16:39:20 INFO  Log4j:125 - Çıkart butonu tıklandı.
+2022-09-30 16:39:21 INFO  Log4j:129 - Çanta iconu tıklandı.
+2022-09-30 16:39:23 INFO  Log4j:134 - Sepetiniz boş texti bulundu.
+2022-09-30 18:14:08 INFO  Log4j:44 - Tarayıcı açıldı ve URL kontrol edildi.
+2022-09-30 18:14:08 INFO  Log4j:48 - Tüm çerezleri kabul et butonu tıklandı.
+2022-09-30 18:14:11 INFO  Log4j:53 - Arama alanına ceket yazıldı ve enter tıklandı.
+2022-09-30 18:14:13 INFO  Log4j:60 - Daha fazla göster butonu bulundu ve tıklandı.
+2022-09-30 18:14:18 INFO  Log4j:65 - Yeni URL kontrol edildi.
+2022-09-30 18:14:18 INFO  Log4j:71 - İndirimli ilk ürüne gidildi.
+2022-09-30 18:14:18 INFO  Log4j:75 - İndirimli ilk üründe beden seçildi.
+2022-09-30 18:14:21 INFO  Log4j:79 - Sepete Git butonu tıklandı.
+2022-09-30 18:14:26 INFO  Log4j:93 - Eski fiyatın indirimli fiyattan büyük olduğu kontrol edildi.
+2022-09-30 18:14:26 INFO  Log4j:97 - Devam Et butonu tıklandı.
+2022-09-30 18:14:30 INFO  Log4j:101 - Email yazıldı.
+2022-09-30 18:14:30 INFO  Log4j:105 - Şifre yazıldı.
+2022-09-30 18:14:30 INFO  Log4j:109 - Giriş Yap butonu kontrol edildi.
+2022-09-30 18:14:31 INFO  Log4j:113 - Network logosu tıklandı.
+2022-09-30 18:14:32 INFO  Log4j:117 - Çanta iconu tıklandı.
+2022-09-30 18:14:33 INFO  Log4j:121 - Sil butonu tıklandı.
+2022-09-30 18:14:33 INFO  Log4j:125 - Çıkart butonu tıklandı.
+2022-09-30 18:14:33 INFO  Log4j:129 - Çanta iconu tıklandı.
+2022-09-30 18:14:35 INFO  Log4j:134 - Sepetiniz boş texti bulundu.
+2022-10-01 16:59:29 INFO  Log4j:42 - Tarayıcı açıldı ve URL kontrol edildi.
+2022-10-01 16:59:30 INFO  Log4j:46 - Tüm çerezleri kabul et butonu tıklandı.
+2022-10-01 16:59:30 INFO  Log4j:51 - Arama alanına ceket yazıldı ve enter tıklandı.
+2022-10-01 16:59:34 INFO  Log4j:58 - Daha fazla göster butonu bulundu ve tıklandı.
+2022-10-01 16:59:39 INFO  Log4j:63 - Yeni URL kontrol edildi.
+2022-10-01 16:59:39 INFO  Log4j:69 - İndirimli ilk ürüne gidildi.
+2022-10-01 16:59:40 INFO  Log4j:73 - İndirimli ilk üründe beden seçildi.
+2022-10-01 16:59:42 INFO  Log4j:77 - Sepete Git butonu tıklandı.
+2022-10-01 16:59:47 INFO  Log4j:91 - Eski fiyatın indirimli fiyattan büyük olduğu kontrol edildi.
+2022-10-01 16:59:47 INFO  Log4j:95 - Devam Et butonu tıklandı.
+2022-10-01 16:59:49 INFO  Log4j:99 - Email yazıldı.
+2022-10-01 16:59:49 INFO  Log4j:103 - Şifre yazıldı.
+2022-10-01 16:59:49 INFO  Log4j:107 - Giriş Yap butonu kontrol edildi.
+2022-10-01 16:59:51 INFO  Log4j:111 - Network logosu tıklandı.
+2022-10-01 16:59:51 INFO  Log4j:115 - Çanta iconu tıklandı.
+2022-10-01 16:59:52 INFO  Log4j:119 - Sil butonu tıklandı.
+2022-10-01 16:59:52 INFO  Log4j:123 - Çıkart butonu tıklandı.
+2022-10-01 16:59:52 INFO  Log4j:127 - Çanta iconu tıklandı.
+2022-10-01 16:59:54 INFO  Log4j:132 - Sepetiniz boş texti bulundu.
+2022-10-01 17:00:15 INFO  Log4j:42 - Tarayıcı açıldı ve URL kontrol edildi.
+2022-10-01 17:00:16 INFO  Log4j:46 - Tüm çerezleri kabul et butonu tıklandı.
+2022-10-01 17:00:20 INFO  Log4j:51 - Arama alanına ceket yazıldı ve enter tıklandı.
+2022-10-01 17:00:20 INFO  Log4j:58 - Daha fazla göster butonu bulundu ve tıklandı.
+2022-10-01 17:00:25 INFO  Log4j:63 - Yeni URL kontrol edildi.
+2022-10-01 17:00:25 INFO  Log4j:69 - İndirimli ilk ürüne gidildi.
+2022-10-01 17:00:26 INFO  Log4j:73 - İndirimli ilk üründe beden seçildi.
+2022-10-01 17:00:27 INFO  Log4j:77 - Sepete Git butonu tıklandı.
+2022-10-01 17:00:33 INFO  Log4j:91 - Eski fiyatın indirimli fiyattan büyük olduğu kontrol edildi.
+2022-10-01 17:00:33 INFO  Log4j:95 - Devam Et butonu tıklandı.
+2022-10-01 17:00:35 INFO  Log4j:99 - Email yazıldı.
+2022-10-01 17:00:35 INFO  Log4j:103 - Şifre yazıldı.
+2022-10-01 17:00:35 INFO  Log4j:107 - Giriş Yap butonu kontrol edildi.
+2022-10-01 17:00:37 INFO  Log4j:111 - Network logosu tıklandı.
+2022-10-01 17:00:37 INFO  Log4j:115 - Çanta iconu tıklandı.
+2022-10-01 17:00:38 INFO  Log4j:119 - Sil butonu tıklandı.
+2022-10-01 17:00:38 INFO  Log4j:123 - Çıkart butonu tıklandı.
+2022-10-01 17:00:38 INFO  Log4j:127 - Çanta iconu tıklandı.
+2022-10-01 17:00:40 INFO  Log4j:132 - Sepetiniz boş texti bulundu.
+2022-10-01 17:03:50 INFO  Log4j:42 - Tarayıcı açıldı ve URL kontrol edildi.
+2022-10-01 17:03:50 INFO  Log4j:46 - Tüm çerezleri kabul et butonu tıklandı.
+2022-10-01 17:03:54 INFO  Log4j:51 - Arama alanına ceket yazıldı ve enter tıklandı.
+2022-10-01 17:03:55 INFO  Log4j:58 - Daha fazla göster butonu bulundu ve tıklandı.
+2022-10-01 17:04:00 INFO  Log4j:63 - Yeni URL kontrol edildi.
+2022-10-01 17:04:00 INFO  Log4j:69 - İndirimli ilk ürüne gidildi.
+2022-10-01 17:04:00 INFO  Log4j:73 - İndirimli ilk üründe beden seçildi.
+2022-10-01 17:04:04 INFO  Log4j:77 - Sepete Git butonu tıklandı.
+2022-10-01 17:04:09 INFO  Log4j:91 - Eski fiyatın indirimli fiyattan büyük olduğu kontrol edildi.
+2022-10-01 17:04:09 INFO  Log4j:95 - Devam Et butonu tıklandı.
+2022-10-01 17:04:11 INFO  Log4j:99 - Email yazıldı.
+2022-10-01 17:04:11 INFO  Log4j:103 - Şifre yazıldı.
+2022-10-01 17:04:11 INFO  Log4j:107 - Giriş Yap butonu kontrol edildi.
+2022-10-01 17:04:14 INFO  Log4j:111 - Network logosu tıklandı.
+2022-10-01 17:04:14 INFO  Log4j:115 - Çanta iconu tıklandı.
+2022-10-01 17:04:15 INFO  Log4j:119 - Sil butonu tıklandı.
+2022-10-01 17:04:15 INFO  Log4j:123 - Çıkart butonu tıklandı.
+2022-10-01 17:04:15 INFO  Log4j:127 - Çanta iconu tıklandı.
+2022-10-01 17:04:17 INFO  Log4j:132 - Sepetiniz boş texti bulundu.
+2022-10-01 17:05:56 INFO  Log4j:42 - Tarayıcı açıldı ve URL kontrol edildi.
+2022-10-01 17:05:57 INFO  Log4j:46 - Tüm çerezleri kabul et butonu tıklandı.
+2022-10-01 17:06:00 INFO  Log4j:51 - Arama alanına ceket yazıldı ve enter tıklandı.
+2022-10-01 17:06:01 INFO  Log4j:58 - Daha fazla göster butonu bulundu ve tıklandı.
+2022-10-01 17:06:06 INFO  Log4j:63 - Yeni URL kontrol edildi.
+2022-10-01 17:06:06 INFO  Log4j:69 - İndirimli ilk ürüne gidildi.
+2022-10-01 17:06:06 INFO  Log4j:73 - İndirimli ilk üründe beden seçildi.
+2022-10-01 17:06:10 INFO  Log4j:77 - Sepete Git butonu tıklandı.
+2022-10-01 17:06:15 INFO  Log4j:91 - Eski fiyatın indirimli fiyattan büyük olduğu kontrol edildi.
+2022-10-01 17:06:15 INFO  Log4j:95 - Devam Et butonu tıklandı.
+2022-10-01 17:06:27 INFO  Log4j:99 - Email yazıldı.
+2022-10-01 17:06:27 INFO  Log4j:103 - Şifre yazıldı.
+2022-10-01 17:06:27 INFO  Log4j:107 - Giriş Yap butonu kontrol edildi.
+2022-10-01 17:06:29 INFO  Log4j:111 - Network logosu tıklandı.
+2022-10-01 17:06:29 INFO  Log4j:115 - Çanta iconu tıklandı.
+2022-10-01 17:06:30 INFO  Log4j:119 - Sil butonu tıklandı.
+2022-10-01 17:06:30 INFO  Log4j:123 - Çıkart butonu tıklandı.
+2022-10-01 17:06:30 INFO  Log4j:127 - Çanta iconu tıklandı.
+2022-10-01 17:06:32 INFO  Log4j:132 - Sepetiniz boş texti bulundu.
+2022-10-01 17:09:17 INFO  Log4j:42 - Tarayıcı açıldı ve URL kontrol edildi.
+2022-10-01 17:09:17 INFO  Log4j:46 - Tüm çerezleri kabul et butonu tıklandı.
+2022-10-01 17:09:17 INFO  Log4j:51 - Arama alanına ceket yazıldı ve enter tıklandı.
+2022-10-01 17:09:35 INFO  Log4j:42 - Tarayıcı açıldı ve URL kontrol edildi.
+2022-10-01 17:09:35 INFO  Log4j:46 - Tüm çerezleri kabul et butonu tıklandı.
+2022-10-01 17:09:38 INFO  Log4j:51 - Arama alanına ceket yazıldı ve enter tıklandı.
+2022-10-01 17:09:39 INFO  Log4j:58 - Daha fazla göster butonu bulundu ve tıklandı.
+2022-10-01 17:09:44 INFO  Log4j:63 - Yeni URL kontrol edildi.
+2022-10-01 17:09:44 INFO  Log4j:69 - İndirimli ilk ürüne gidildi.
+2022-10-01 17:09:45 INFO  Log4j:73 - İndirimli ilk üründe beden seçildi.
+2022-10-01 17:09:46 INFO  Log4j:77 - Sepete Git butonu tıklandı.
+2022-10-01 17:09:51 INFO  Log4j:91 - Eski fiyatın indirimli fiyattan büyük olduğu kontrol edildi.
+2022-10-01 17:09:52 INFO  Log4j:95 - Devam Et butonu tıklandı.
+2022-10-01 17:10:05 INFO  Log4j:99 - Email yazıldı.
+2022-10-01 17:10:05 INFO  Log4j:103 - Şifre yazıldı.
+2022-10-01 17:10:05 INFO  Log4j:107 - Giriş Yap butonu kontrol edildi.
+2022-10-01 17:10:07 INFO  Log4j:111 - Network logosu tıklandı.
+2022-10-01 17:10:07 INFO  Log4j:115 - Çanta iconu tıklandı.
+2022-10-01 17:10:08 INFO  Log4j:119 - Sil butonu tıklandı.
+2022-10-01 17:10:08 INFO  Log4j:123 - Çıkart butonu tıklandı.
+2022-10-01 17:10:08 INFO  Log4j:127 - Çanta iconu tıklandı.
+2022-10-01 17:10:10 INFO  Log4j:132 - Sepetiniz boş texti bulundu.
